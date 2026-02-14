@@ -37,6 +37,14 @@ RISK_PATTERNS: dict[str, list[str]] = {
         "steal password",
         "phishing kit",
     ],
+    "fraud_deception": [
+        "cheat on my exam",
+        "cheat on exam",
+        "exam cheating",
+        "bypass proctor",
+        "fake identity documents",
+        "forge documents",
+    ],
     "self_harm": [
         "kill myself",
         "suicide method",
