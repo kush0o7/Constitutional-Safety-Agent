@@ -239,3 +239,8 @@ Quick summary for `redline/backend/app/llm/provider.py`:
 ## Contribution guidelines
 
 See `CONTRIBUTING.md`.
+
+## Extended documentation
+
+- Full implementation dossier: `docs/project-dossier.md`
+- Resume-ready summary pack: `docs/resume-pack.md`
